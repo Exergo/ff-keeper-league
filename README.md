@@ -1,5 +1,3 @@
-![Image of NFL](http://content.sportslogos.net/logos/7/1007/full/dwuw5lojnwsj12vfe0hfa6z47.gif)
-
 # Finders Keepers - FF Keeper League
 
 ## Draft
