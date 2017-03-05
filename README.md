@@ -1,4 +1,4 @@
-![Image of NFL](https://img.clipartfest.com/080a098730df123de815ee4bac1110cd_nfl-clip-art-logos-clipart-transparent-nfl-team-logo-clipart_750-1061.gif)
+![Image of NFL](http://content.sportslogos.net/logos/7/1007/full/dwuw5lojnwsj12vfe0hfa6z47.gif)
 
 # Finders Keepers - FF Keeper League
 
