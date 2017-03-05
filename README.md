@@ -1,3 +1,9 @@
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Exergo/ff-keeper-league/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 ![Image of NFL](https://theultimatesportsblogdotcom.files.wordpress.com/2016/08/nfl-fantasy-football-440.jpg)
 
 # Finders Keepers - FF Keeper League
@@ -20,13 +26,6 @@ Team | Owner
 8 | Name
 9 | Name
 10 | Name
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Exergo/ff-keeper-league/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
