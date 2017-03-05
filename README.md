@@ -8,11 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Finders Keepers - FF Keeper League
 
-##Draft
+## Draft
 
-##League Rules
+## League Rules
 
-##Teams
+## Teams
 
 Team | Owner
 ------ | -------
